@@ -12,7 +12,7 @@
 - 👩‍💻 Exploring opportunities in **frontend and backend development**
 - 💬 Ask me about **HTML, CSS, JavaScript, and Node.js**
 - 📫 How to reach me: **[sarita595k@gmail.com](mailto:sarita595k@gmail.com)**
-- 📝 Check out my [Portfolio](#) _(Add your portfolio link here)_
+- 📝 Check out my [Portfolio](#) 
 
 ---
 
