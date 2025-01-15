@@ -1,56 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sarita</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | Passionate Learner</h3>
+# 💫 About Me:
+I am a dedicated and ambitious individual pursuing a career in full-stack web development. Currently enrolled in the Full-Stack Developer Course at Coding Ninjas, I am gaining hands-on experience with both frontend and backend technologies. Balancing housework and learning, I am passionate about building projects and mastering programming skills. My goal is to create innovative and efficient web solutions while continuously growing in the tech field.<br><br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ba6c083-3b51-4fb4-a2eb-9e849c2c9603" alt="Sarita's Profile GIF" style="width: 300px;">
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/595sarita) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avsar__) 
 
-- 🔭 Currently working on **Full-Stack Web Development Projects**
-- 🌱 Learning **Node.js, Express.js, MongoDB**
-- 👩‍💻 Exploring opportunities in **frontend and backend development**
-- 💬 Ask me about **HTML, CSS, JavaScript, and Node.js**
-- 📫 How to reach me: **[sarita595k@gmail.com](mailto:sarita595k@gmail.com)**
-- 📝 Check out my [Portfolio](#) 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarita595k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarita595k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarita595k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sarita595k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/sarita595k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/sarita595k" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub">
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sarita595k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sarita595k&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-gray?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarita595k&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarita595k&theme=radical" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarita595k&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-<h3 align="center">Show Some ❤️ by Starring My Repositories!</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
