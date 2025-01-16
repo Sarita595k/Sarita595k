@@ -2,7 +2,8 @@
 I am a dedicated and ambitious individual pursuing a career in full-stack web development. Currently enrolled in the Full-Stack Developer Course at Coding Ninjas, I am gaining hands-on experience with both frontend and backend technologies. Balancing housework and learning, I am passionate about building projects and mastering programming skills. My goal is to create innovative and efficient web solutions while continuously growing in the tech field.<br><br>
 
 
-[![LeetCode user MWa2NiG0fw](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMWa2NiG0fw&logo=leetcode&logoColor=yellow)](https://leetcode.com/MWa2NiG0fw/)
+[![LeetCode user MWa2NiG0fw](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMWa2NiG0fw&logo=leetcode&logoColor=yellow)](https://leetcode.com/MWa2NiG0fw/) 
+![Coding Ninjas](https://github.com/user-attachments/assets/6674950e-ef3d-4552-b321-1106c7718839)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/595sarita) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avsar__) 
@@ -14,10 +15,15 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarita595k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarita595k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarita595k&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarita595k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sarita595k&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/><br/>
+
+## 🏆 Coding Ninjas Learning Awards
+
+![](https://files.codingninjas.in/streak-superstar-3-26984.svg)
+![](https://files.codingninjas.in/diligent-developer-4-26990.svg)
+![](https://files.codingninjas.in/leaderboard-legend-4-27003.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
