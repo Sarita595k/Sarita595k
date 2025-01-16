@@ -14,6 +14,8 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarita595k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarita595k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarita595k&theme=default&hide_border=true)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarita595k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
