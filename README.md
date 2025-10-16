@@ -6,7 +6,7 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 [![LeetCode user MWa2NiG0fw](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMWa2NiG0fw&logo=leetcode&logoColor=yellow)](https://leetcode.com/MWa2NiG0fw/) 
 ![Coding Ninjas](https://github.com/user-attachments/assets/6674950e-ef3d-4552-b321-1106c7718839)
 <!--social links -->
-
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/595sarita) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avsar__) 
 <!-- end of code -->
