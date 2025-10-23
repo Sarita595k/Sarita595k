@@ -1,5 +1,4 @@
 <!--start of the code-->
-
 # 💫 About Me:
 I am a dedicated and ambitious individual pursuing a career in full-stack web development. Currently enrolled in the Full-Stack Developer Course at Coding Ninjas, I am gaining hands-on experience with both frontend and backend technologies. Balancing housework and learning, I am passionate about building projects and mastering programming skills. My goal is to create innovative and efficient web solutions while continuously growing in the tech field.<br>
 
