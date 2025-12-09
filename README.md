@@ -21,10 +21,10 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarita595k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarita595k&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/><br/>
 
-## 🏆 Coding Ninjas Learning Awards
+# 🏆 Coding Ninjas Learning Awards
 <!--learning awards-->
 ![](https://files.codingninjas.in/streak-superstar-3-26984.svg)
 ![](https://files.codingninjas.in/diligent-developer-4-26990.svg)
