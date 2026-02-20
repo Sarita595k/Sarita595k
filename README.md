@@ -30,7 +30,6 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![](https://files.codingninjas.in/diligent-developer-4-26990.svg)
 ![](https://files.codingninjas.in/leaderboard-legend-4-27003.svg)
 ![]((<img width="158" height="119" alt="image" src="https://github.com/user-attachments/assets/81303553-37a8-4723-915c-c7c466f5154c" />))
-![]((https://files.codingninjas.in/ace-coder-5-26999.svg))
 
 
 ### ✍️ Random Dev Quote
