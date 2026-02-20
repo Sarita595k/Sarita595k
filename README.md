@@ -1,4 +1,4 @@
-<!--start of the code-->
+<img width="158" height="119" alt="image" src="https://github.com/user-attachments/assets/81303553-37a8-4723-915c-c7c466f5154c" /><!--start of the code-->
 
 # 💫 About Me:
 I am a dedicated and ambitious individual pursuing a career in full-stack web development. Currently enrolled in the Full-Stack Developer Course at Coding Ninjas, I am gaining hands-on experience with both frontend and backend technologies. Balancing housework and learning, I am passionate about building projects and mastering programming skills. My goal is to create innovative and efficient web solutions while continuously growing in the tech field.<br>
@@ -29,6 +29,9 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![](https://files.codingninjas.in/streak-superstar-3-26984.svg)
 ![](https://files.codingninjas.in/diligent-developer-4-26990.svg)
 ![](https://files.codingninjas.in/leaderboard-legend-4-27003.svg)
+![]((https://files.codingninjas.in/legendary-1-27005.svg))
+![]((https://files.codingninjas.in/ace-coder-5-26999.svg))
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
