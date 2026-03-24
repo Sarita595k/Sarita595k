@@ -9,7 +9,7 @@ I am a dedicated and ambitious individual pursuing a career in full-stack web de
 ![Coding Ninjas](https://github.com/user-attachments/assets/6674950e-ef3d-4552-b321-1106c7718839)
 <!--social links -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sarita595) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avsar__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarita595) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@avsar__) 
 <!-- end of code -->
 
 
